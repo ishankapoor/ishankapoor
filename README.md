@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ![Logo Banner](logobanner.gif)
-
+# Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Current focus
-* In my current role, I'm working in React, creating demo's and demo scripts!
+* In my current role, I'm working in technical evangelism, customer facing demo's!
 * Video editing
