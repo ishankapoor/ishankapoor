@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ishankapoor/ishankapoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Logo Banner](logobanner.gif)
+
+
+## Current focus
+* In my current role, I'm working in React, creating demo's and demo scripts!
+* Video editing
